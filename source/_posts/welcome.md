@@ -6,6 +6,12 @@ Welcome to [MCSM](http://hexo.io/)!
 
 MCSM hat verschiedene Werkstätten für die Verarbeitung von Holz und Metall, sowie Elektronik.
 
+<img src="images/thumb_5.jpg" />
+
+<img src="images/thumb_9.jpg" />
+
+<img src="images/thumb_14.jpg" />
+
 
 ## How to find us
 

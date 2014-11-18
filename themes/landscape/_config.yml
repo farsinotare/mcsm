@@ -2,6 +2,8 @@
 menu:
   Home: /
   Bahn: /bahn
+  Workshops: /workshops
+  Events: /events
   Location: /location
   About us: /about-us
 rss: /atom.xml
