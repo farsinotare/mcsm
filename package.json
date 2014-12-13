@@ -16,6 +16,7 @@
     "path": "^0.4.9",
     "stream-stream": "^1.2.6",
     "through": "^2.3.6",
-    "trumpet": "^1.7.0"
+    "trumpet": "^1.7.0",
+    "pixelizer": "^0.0.1"
   }
 }
